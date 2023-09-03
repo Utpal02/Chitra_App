@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323927359121",
+    "project_id": "phone-firebase-3d9c4",
+    "storage_bucket": "phone-firebase-3d9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323927359121:android:43795a41567498f2978930",
+        "android_client_info": {
+          "package_name": "com.example.chitra_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323927359121-94q56tjvlcotu2g3cr10elmju9io2jh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe6eBMZkXq4pKOu2ECFM-3YNa-KZThMyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323927359121-94q56tjvlcotu2g3cr10elmju9io2jh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
